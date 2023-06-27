@@ -1,0 +1,23 @@
+.home-main-section {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+.home-main-section .img-wrapper {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-end;
+}
+
+.home-main-section .joe-image {
+  background-image: url(assets/joe-strummersinging.png);
+  flex-grow: 1;
+  max-height: 70vh;
+  min-width: 30vh;
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-size: contain;
+}
