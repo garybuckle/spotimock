@@ -29,7 +29,7 @@ body {
   margin-left: 1rem;
 }
 
-.main-nav ul {
+.main-nav ul, .footer-nav ul {
   display: flex;
   margin: 0;
   padding: 0;
@@ -46,12 +46,15 @@ body {
   color: #adadad;
 }
 
-.main-header {
+.main-header, .main-footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 140px;
 }
+.main-header{
+  height:140px
+}
+
 
 .container {
   max-width: 1200px;

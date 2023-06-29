@@ -1,0 +1,12 @@
+{
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "html",
+    "css"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "\/Users\/garybuckle\/Coding\/spotimock\/index.html",
+    "\/Users\/garybuckle\/Coding\/spotimock\/index.css",
+    "\/Users\/garybuckle\/Coding\/spotimock\/discover.html",
+    "\/Users\/garybuckle\/Coding\/spotimock\/styles.css"
+  ]
+}

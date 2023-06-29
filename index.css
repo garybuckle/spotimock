@@ -16,7 +16,7 @@
   background-image: url(assets/joe-strummersinging.png);
   flex-grow: 1;
   max-height: 70vh;
-  min-width: 30vh;
+  min-width: 30vw;
   background-repeat: no-repeat;
   background-position: bottom left;
   background-size: contain;
@@ -45,7 +45,7 @@
   width: 25vw;
   border-radius: 50%;
   background-color: rgba(218, 32, 20, 0.1);
-  bottom: 10vw;
+  bottom: 10vh;
   left: 15vw;
   z-index: -1;
 }
@@ -61,7 +61,7 @@
   );
 
   /* background-color: rgba(188, 58, 128, 0.5); */
-  bottom: 12vw;
+  bottom: 12vh;
   left: 45vw;
   z-index: -1;
 }
